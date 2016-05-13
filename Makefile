@@ -5,4 +5,4 @@ bib:
 	bibtex lyapunov
 
 clean:
-	rm -f hlyapunov.aux lyapunov.log lyapunov.pdf
+	rm -f *.aux *.bbl *.blg *.log *.toc lyapunov.pdf

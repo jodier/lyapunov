@@ -25,6 +25,7 @@
 \usepackage{bigcenter}
 \usepackage{eso-pic}
 \usepackage{graphicx}
+\usepackage{pdfpages}
 \usepackage{tabularx}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
